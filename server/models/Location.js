@@ -24,7 +24,7 @@ const LocationSchema = new mongoose.Schema({
         }
       ]
     },
-    "Deakins Research Outpos": {
+    "Deakins Research Outpost": {
       sell: [
         {
           com_id: {
